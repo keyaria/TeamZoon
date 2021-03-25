@@ -1,0 +1,128 @@
+{
+  "hero": "Let Technology Serve Our Life",
+  "about": {
+    "reason1": {
+      "title": "We can handle everything from software development to hardware sales",
+      "caption":"We can meet a wide range of needs, including medical and nursing care, real estate, educational institutions, agriculture and industry."
+    },
+    "reason2": {
+      "title" : "Expert Team on Hand.",
+      "caption": "Our experienced system engineers will analyze your business processes to determine what functions are most appropriate for you, and support you in planning and implementing the best system solution from a comprehensive perspective."
+    },
+    "reason3":{
+      "title" : "We help with a Variety of Needs",
+      "caption": "By providing abundant Internet resources and Team Zoon's unique technology, we aim to create a world where all people can benefit from the IoT."
+        }
+  },
+  "anchorSection": {
+  "section1": {
+    "title": "Smart Home Solutions",
+    "details": "Design a custom-made intelligent solution to help you fully enjoy the convenience of smart products, choose the right product for your needs,and provide optimal integrated control. This service, while partnering with other smart home product developers in Japan, we would like to deliver our products to many households, focusing primarily on software development."
+  },
+  "section2" : {
+    "title": "Smart Store Management",
+    "details": {
+      "title1": "The global wave of smart stores is spreading",
+      "caption": "In response to the rapidly changing environment surrounding the retail industry, we can use customer data to improve personalization and marketing and fixed price strategies in order to enhance the in-store experience for customers and develop new services in line with customer needs. In Japan, smart stores are attracting attention as one of the solutions, especially in the context of labor shortages due to a declining workforce.",
+      "title2": "This system can contain",
+      "list": {
+        "item1": "Automatic accounting system with product tag recognition",
+        "item2": "Automated payment system based on facial recognition",
+        "item3": "Automatic ordering of missing inventory, etc.",
+        "item4": "We will work on development that meets the needs of stores."
+      },
+      "ending": "We also plan to automate security by linking the system to surveillance cameras that automatically detect suspicious behavior and trespassing. By utilizing these new technologies and analyzing customer data, it will not only be possible to solve the manpower shortage, but also to provide new business models and services that meet their needs. In addition to providing technologies and tools, the company plans to develop new services that will help client companies differentiat themselves from their competitors by developing optimal management system proposals."
+    }
+  },
+  "section3" : {
+    "title": "Application Development",
+    "details": "IT technology is advancing at a rapid pace, and the technology of a few years ago has already become legacy technology. By keeping an eye on the latest technology trends and proactively using new technologies, we propose easy-to-use and effective systems and services that meet the needs of our customers, based on our accumulated technological capabilities and extensive experience."
+}
+},
+"lowerbanner": "By providing abundant Internet resources and Team Zoon's unique technology, we aim to create a world where everyone can benefit from the IoT.",
+"contact": {
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "email": "Email",
+  "contactUs": "Contact Us"
+},
+"contactForm": {
+  "helperText": "We'll never share your email.",
+  "inquiry": "Inquiry",
+  "selectContent": "Select Content",
+  "detail": "Please write here in detail",
+  "contactUs": "Contact Us",
+  "contents": {
+    "document": "Request Document", 
+    "online": "Request Online Meeting", 
+    "visit": "Request to visit your company", 
+    "other": "Others"
+  }
+},
+"button": {
+  "apply": "APPLY",
+  "contactUs": "CONTACT US"
+},
+"career": {
+  "section1": {
+    "header": "Join Us",
+    "title": "Our Culture",
+    "about1": "Location",
+    "caption1": "The company is located next to the park named Utsubo Park with beautiful environment. Looking out of the window, you can have a panoramic view of the park. The working environment of the company is just like the scenery of the park, harmonious and quiet.",
+    "about2": "Diversity",
+    "caption2": "The company's employees come from different countries, Japan, the United States, China and so on. They can communicate freely and share their happiness and disappointments in their work.",
+    "about3": "Environment",
+    "caption3": "The environment of the company is free and open. There is no restriction in working here. Employees can express their opinions freely in the daily dinner.",
+    "about4": "Belief",
+    "caption4": "Although we are a new company, we have a firm belief that the development of the company will be better and better with the efforts of every employee."
+  },
+  "section2": {
+    "header": "Meet The Team",
+    "name": {
+      "paul": "Paul Qiu",
+      "ayumi": "Ayumi Kawano",
+      "keyaria": "Keyaria Walker",
+      "winston": "Winston Wu",
+      "hiromu": "Hiromu Tojima",
+      "yusaku": "Yusaku Yoshimura"
+    }
+  },
+  "section3": {
+    "header": "Career Opportunities"
+  },
+  "section4": {
+    "header": "Have Any Questions?"
+  },
+  "category": {
+    "all": "All",
+    "pd": "PRODUCT DEVELOPMENT",
+    "hr": "HR",
+    "sales": "SALES",
+    "accounting": "ACCOUNTING"
+  },
+  "title": {
+    "ceo": "CEO",
+    "pm": "Project Manager",
+    "developer": "Developer",
+    "sr": "Sales Representative",
+    "sa": "Sales Associate",
+    "generalAffairsManager": "General Affairs Manager",
+    "generalAffair": "General Affair",
+    "accountManager": "Account Manager",
+    "associateInAccounting": "Associate in Accounting"
+  }
+},
+"footer": {
+  "rights": "2016 - 2021 TeamZoon International, all rights reserved.",
+  "office": {
+    "osaka": {
+      "title": "Osaka Office",
+       "address": "〒550-0003 Osaka, Nishi-ku, Kyōmachibori, 1-chōme-8-22 Ookini Utsubo Park Building, 4th Floor Tel: +81(0)50-5490-1062"
+    },
+    "thailand": {
+      "title": "Chiang Mai Office",
+      "address": "199/112 Moo 2 Soi 4/5 Tumbon Thasara Ampur Meung ChiangMai 50000"
+    }
+  }
+}
+}
